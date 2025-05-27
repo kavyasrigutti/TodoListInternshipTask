@@ -54,5 +54,5 @@ Tasks will remain even if you refresh or close the tab
 
 📸 Screenshot
 
-![Todo App Screenshot](screenshot.jpg)
+![Todo App Screenshot](screenshot.JPG)
 
